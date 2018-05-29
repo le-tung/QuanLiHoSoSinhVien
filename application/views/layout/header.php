@@ -38,6 +38,22 @@
                     </form>
                     <ul class="nav navbar-nav navbar-right">
                         
+                        <!--  -->
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                Users
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="#"><i class="fa fa-user"></i> &nbsp;them</a>
+                                    <a href="#"><i class="fa fa-user"></i> &nbsp;Sua</a>
+                                    <a href="#"><i class="fa fa-user"></i> &nbsp;Xoa</a>
+                                </li>
+
+                            </ul>
+                        </li>
+                        <!--  -->
+
                         <?php if (isset($_SESSION['username'])): ?>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
