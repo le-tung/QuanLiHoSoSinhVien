@@ -22,7 +22,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="<?= base_url() ?>index.php/userController/home">
+                    <a class="navbar-brand" href="<?= base_url() ?>userController/home">
                         <i class="fa fa-graduation-cap"></i>&nbsp;Quản lí hồ sơ sinh viên
                     </a>
                 </div>
