@@ -3,7 +3,10 @@
 <head>
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>public/bootstrap-3.3.7-dist/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>public/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="<?= base_url() ?>public/DataTables/datatables.min.css">
     <link rel="stylesheet" type="text/css" href="<?= base_url() ?>public/css/app.css">
+    <script type="text/javascript" src="<?= base_url() ?>public/js/jquery-2.2.4.min.js"></script>
+    <script type="text/javascript" src="<?= base_url() ?>public/DataTables/datatables.min.js"></script>
 </head>
 <body>
     
